@@ -1,3 +1,3 @@
 # Portfolio
 My portfolio Website
-https://karnmodi.github.io/Portfolio/
+https://karanmodi.com/
