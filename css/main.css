@@ -1801,7 +1801,7 @@ header{
 	padding: 0;
 	position: relative;
 	overflow: hidden;
-	margin: 10px;
+	
 }
 #portfolio .folio-item img {
 	vertical-align: middle;
@@ -1810,6 +1810,7 @@ header{
 	-webkit-transition: all 0.5s ease-in-out;
 	-ms-transition: all 0.5s ease-in-out;
 	transition: all 0.5s ease-in-out;
+	margin: 10px;
 }
 
 #portfolio .overlay {
